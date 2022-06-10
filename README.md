@@ -1,1 +1,2 @@
 # eXtension-Inteface-Wrapper
+This repository includes a wrapper to connect accelerators to RISC-V cores using the [eXtension Interface](https://github.com/openhwgroup/core-v-xif). The wrapper can hold a configurable number of instructions for a pipelined accelerator. 
